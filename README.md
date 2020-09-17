@@ -1,5 +1,5 @@
 # Tejaswa
-<img src="images/tejaswa_casual.jpg" width="30%" />
+<!-- <img src="images/tejaswa_casual.jpg" width="30%" /> -->
 Hi, I am Tejaswa Gavankar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work in the technology division of Credit Suisse, a major global financial firm. 
 
 With regard to [my professional skills](#technical-skills), I code in python, primarily for back end development in Big Data and Google cloud solutions. I'd say I fit the [*E-shape employee*](https://www.linkedin.com/pulse/which-letter-shaped-future-employees-leaders-esin-akay/) category as I am good at exploring new technologies for greenfield projects and scaling them from PoC to production.
