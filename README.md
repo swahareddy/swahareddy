@@ -24,8 +24,8 @@ I'm always upto [something fun](/blogs) outside work. Over the last year I have 
 ![](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=google-cloud&logoColor=white&color=21b52b)
 
 <!-- ### Big Data  -->
-[/]: Logos N/A for these
-Big Data:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Big Data-HDFS-informational?style=flat&color=21b52b)
+<!--[/]: Logos N/A for these-->
+Big Data:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/BigData-HDFS-informational?style=flat&color=21b52b)
 ![](https://img.shields.io/badge/BigData-Sqoop-informational?style=flat&color=21b52b)
 ![](https://img.shields.io/badge/BigData-Oozie-informational?style=flat&color=21b52b)
 ![](https://img.shields.io/badge/BigData-Impala-informational?style=flat&color=21b52b)
