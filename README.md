@@ -18,18 +18,18 @@ I'm always upto [something fun](/blogs) outside work. Over the last year I have 
 ![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Code-Shell-informational?style=flat&color=21b52b)
-![](https://img.shields.io/badge/IDE-Visual Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 
 <!-- ### Cloud -->
-![](https://img.shields.io/badge/Cloud-Google Cloud Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=google-cloud&logoColor=white&color=21b52b)
 
 <!-- ### Big Data  -->
 [/]: Logos N/A for these
 Big Data:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Big Data-HDFS-informational?style=flat&color=21b52b)
-![](https://img.shields.io/badge/Big Data-Sqoop-informational?style=flat&color=21b52b)
-![](https://img.shields.io/badge/Big Data-Oozie-informational?style=flat&color=21b52b)
-![](https://img.shields.io/badge/Big Data-Impala-informational?style=flat&color=21b52b)
-![](https://img.shields.io/badge/Big Data-Hive-informational?style=flat&color=21b52b)
+![](https://img.shields.io/badge/BigData-Sqoop-informational?style=flat&color=21b52b)
+![](https://img.shields.io/badge/BigData-Oozie-informational?style=flat&color=21b52b)
+![](https://img.shields.io/badge/BigData-Impala-informational?style=flat&color=21b52b)
+![](https://img.shields.io/badge/BigData-Hive-informational?style=flat&color=21b52b)
 
 <!-- ### Front End -->
 Front End:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/UI-Flask-informational?style=flat&logo=flask&logoColor=white&color=21b52b)
